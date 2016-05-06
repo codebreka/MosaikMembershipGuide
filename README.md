@@ -7,7 +7,7 @@ When you’re looking through our guide, we’d like you to keep one thing in mi
 
 You’ll notice we haven’t printed our book, and that’s because we’re constantly adding to it, developing it, and changing it accordingly. If you have any thoughts or suggestions, let us know. 
 
-Or better yet…
+<b>Or better yet…</b>
 
 Make It Better Yourself
 Our handbook will also be available as an opensource project on GitHub. We’ve engineered it so that it’s constantly ready for improvement and new development -- to submit a change simply make a pull request and add your contribution!
