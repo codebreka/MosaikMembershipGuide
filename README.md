@@ -1,7 +1,7 @@
 # MosaikMembershipGuide
 How to be a most excellent community member
 
-How to Use this Guide
+<b>How to Use this Guide</b>
 
 When you’re looking through our guide, we’d like you to keep one thing in mind. We created this book as a compass, a guide, a north star if you will, to help give you some context and information about how we operate. But keeping an open mind, collaborating, and continuously learning are all values that we take extremely seriously, and this applies to our guide as well!
 
